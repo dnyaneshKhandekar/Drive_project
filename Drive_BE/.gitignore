@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Ignore application properties
+src/main/resources/application.properties
+
+# Ignore uploaded files directory
+uploads/
+

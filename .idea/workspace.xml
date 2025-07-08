@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d69591af-d301-47d6-8fa1-54379b087e6f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Drive_FE/public/default.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drive_FE/src/DriveApp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drive_FE/src/DriveApp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drive_FE/src/component/FileCard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drive_FE/src/component/FileCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drive_FE/src/component/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drive_FE/src/component/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drive_FE/src/component/Sidebar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drive_FE/src/component/Sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drive_BE/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drive_BE/uploads/Hemant-Java-Dev.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drive_BE/uploads/Report(SEMV)[1].docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drive_BE/uploads/Report(SEMV)[1][1]dany.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drive_BE/uploads/final project report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drive_BE/uploads/flutter_report1_convert.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drive_BE/uploads/my photo 1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drive_BE/uploads/my resume 2 for internship (2).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drive_BE/uploads/navizit 13 date ppt (UPDATE NO.3).pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drive_BE/uploads/personalized learning data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drive_FE" beforeDir="false" afterPath="$PROJECT_DIR$/Drive_FE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drive_FE/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Drive_FE/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drive_FE/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Drive_FE/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drive_FE/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Drive_FE/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dnyaneshKhandekar"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dnyaneshKhandekar/Drive_project.git",
+    "accountId": "d4422166-2e4d-4f6f-bdba-fe0fdad453ff"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2zbXZyYA7ZQ2oIv3oghGiiELJsV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d69591af-d301-47d6-8fa1-54379b087e6f" name="Changes" comment="" />
+      <created>1752000808284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752000808284</updated>
+    </task>
+    <servers />
+  </component>
+</project>
